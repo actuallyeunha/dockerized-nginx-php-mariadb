@@ -12,6 +12,9 @@ Nao tem site aqui! Voces precisam providenciar de autoria de voces (ou copiado d
 
 ## Tutorial
 
+0. ~ Instale todos o `Docker` e o `docker-compose`
+(Nao tem como fazer tutorial pra todos os SO's pesquisa no google)
+
 1. ~ Clonar o repositorio
 
 ```powershell
